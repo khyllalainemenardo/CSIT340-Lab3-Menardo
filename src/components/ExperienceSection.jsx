@@ -7,22 +7,22 @@ function ExperienceSection() {
       <SectionHeading title="Experience" subtitle="Where I have learned and worked." />
       <ol className="mt-8 space-y-8 border-l border-stone-200">
         <TimelineItem
-          period="2024 – Present"
+          period="2023 – Present"
           title="BS Information Technology"
           place="Cebu Institute of Technology – University"
-          description="Taking up web development, databases, and systems integration."
+          description="Studying web development, database design, and systems integration, and building projects for each along the way."
         />
         <TimelineItem
-          period="2026"
-          title="Systems Integration Project"
-          place="CIT-U College of Computer Studies"
-          description="Worked with a team to design and connect the parts of our SIA class system."
+          period="2021 – 2023"
+          title="Senior High School, ABM Strand"
+          place="De La Salle Andres Soriano Memorial College"
+          description="Studied accounting, business, and management, which later led me to explore how technology supports the way organizations work."
         />
         <TimelineItem
-          period="2022 – 2024"
-          title="Senior High School, ICT Strand"
-          place="Senior High School"
-          description="Wrote my first lines of code and decided to pursue IT."
+          period="2014 – 2018"
+          title="Junior High School"
+          place="De La Salle Andres Soriano Memorial College"
+          description="Built a strong foundation in core subjects and first got curious about computers through school activities and projects."
         />
       </ol>
     </section>
